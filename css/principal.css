@@ -12,7 +12,22 @@ margin: 0px;
 }
 #div1{
 	margin:0px;
-	width:1400px;
+	width:1200px;
 	height:400px;
 	background-color: #80ffff;
+}
+#isquierda1{
+	width: 400px;
+	height: 400px;
+	background-color: #ff8080;
+}
+#centro1{
+	width: 400px;
+	height: 400px;
+	background-color: #ffff80;
+}
+#derecha1{
+	width: 400px;
+	height: 400px;
+	background-color: #80ff80;
 }
