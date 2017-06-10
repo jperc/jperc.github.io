@@ -1,12 +1,12 @@
 @CHARSET "ISO-8859-1";
 
-#body{
-	background: #ffff80;
-}
+
 *{
 margin: 0px;
 }
-
+#body{
+	background: #ffff80;
+}
 .div{
 	background-color: #000000;
 }
