@@ -27,13 +27,14 @@ margin: 0px;
 	background-color: #000000;
 }
 .boton{
-	border-radius:20px;
+	 border-radius:20px;
 	 background-color: #4CAF50;
      border: none;
   
 }
 ///////////////////////////////////////////////////////
 #div1{
+	text-aling:center;
 	margin:3px;
 	width:1300px;
 	height:400px;
