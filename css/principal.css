@@ -10,6 +10,7 @@ margin: 0px;
 	height:30px;
 	background-color: #1a1a1a;
 }
+///////////////////////////////////////////////////////
 #div1{
 	margin:0px;
 	width:1200px;
@@ -32,4 +33,30 @@ margin: 0px;
 	width: 400px;
 	height: 400px;
 	background-color: #80ff80;
+	float: left;
+}
+///////////////////////////////////////////////////////////////
+#div2{
+	margin:0px;
+	width:1200px;
+	height:400px;
+	background-color: #80ffff;
+}
+#isquierda2{
+	width: 400px;
+	height: 400px;
+	background-color: #ff8080;
+	float: left;
+}
+#centro2{
+	width: 400px;
+	height: 400px;
+	background-color: #ffff80;
+	float: left;
+}
+#derecha2{
+	width: 400px;
+	height: 400px;
+	background-color: #80ff80;
+	float: left;
 }
