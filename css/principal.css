@@ -4,7 +4,10 @@
 *{
 margin: 0px;
 }
-
+#navegacion{
+	margin: opx;
+	background-color: #1a1a1a;
+}
 .div1{
 	margin:10px;
 	width:400px;
