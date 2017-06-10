@@ -28,27 +28,27 @@ margin: 0px;
 	margin:0px;
 	border:2px;
 	border-color:#000000;
-	width:1400px;
+	width:1500px;
 	height:400px;
 	background-color: #80ffff;
 }
 #isquierda1{
 	margin:5px;
-	width: 400px;
-	height: 400px;
+	width: 498px;
+	height: 498px;
 	background-color: #ff8080;
 	float: left;
 }
 #centro1{
 	margin:5px;
-	width: 400px;
+	width: 498px;
 	height: 400px;
 	background-color: #ffff80;
 	float: left;
 }
 #derecha1{
 	margin:5px;
-	width: 400px;
+	width: 498px;
 	height: 400px;
 	background-color: #80ff80;
 	float: left;
@@ -58,27 +58,27 @@ margin: 0px;
 	border:2px;
 	border-color: #000000;
 	margin:0px;
-	width:1400px;
+	width:1500px;
 	height:400px;
 	background-color: #80ffff;
 }
 #isquierda2{
 	margin:5px;
-	width: 400px;
+	width: 498px;
 	height: 400px;
 	background-color: #ff8080;
 	float: left;
 }
 #centro2{
 	margin:5px;
-	width: 400px;
+	width: 498px;
 	height: 400px;
 	background-color: #ffff80;
 	float: left;
 }
 #derecha2{
 	margin:5px;
-	width: 400px;
+	width: 498px;
 	height: 400px;
 	background-color: #80ff80;
 	float: left;
