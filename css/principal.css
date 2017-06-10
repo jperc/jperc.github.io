@@ -16,15 +16,17 @@ margin: 0px;
 	height:400px;
 	background-color: #80ffff;
 }
-#isquierda1{
+#div1isquierda1{
 	width: 400px;
 	height: 400px;
 	background-color: #ff8080;
+	float: left;
 }
 #centro1{
 	width: 400px;
 	height: 400px;
 	background-color: #ffff80;
+	float: left;
 }
 #derecha1{
 	width: 400px;
