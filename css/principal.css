@@ -1,7 +1,12 @@
 @CHARSET "ISO-8859-1";
+
+.bpdy{
+	background-color: #ffff80;
+}
 *{
 margin: 0px;
 }
+
 .div{
 	background-color: #000000;
 }
