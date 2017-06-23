@@ -34,13 +34,13 @@
 #div1 {
 	
 	margin: 50px;
-	width: 1302px;
+	width: 1305px;
 	height: 400px;
 	background: #000000;
 	
 }
 
-#isquierda1 {
+#div1 isquierda1 {
 	margin: 6px;
 	width: 652px;
 	height: 400px;
@@ -50,7 +50,7 @@
 }
 
 
-#derecha1 {
+ #div1 derecha1 {
 	margin: 6px;
 	width: 650px;
 	height: 400px;
@@ -62,14 +62,14 @@
 #div2 {
 	margin: 50px;
 	/* el margen que existe entre el div y las demas etiquetas */
-	width: 1302px;
+	width: 1305px;
 	height: 400px;
 	border: 2px;
 	border-color: #000000;
 	background-color: #80ffff;
 }
 
-#isquierda2 {
+ #div2 isquierda2 {
 	margin: 6px;
 	width: 650px;
 	height: 400px;
@@ -78,7 +78,7 @@
 }
 
 
-#derecha2 {
+ #div2 derecha2 {
 	margin: 6px;
 	width: 650px;
 	height: 400px;
