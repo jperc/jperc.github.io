@@ -32,7 +32,7 @@
 
 ///////////////////////////////////////////////////////
 #div1 {
-	text-aling: center; /* define la aliniacion y pone en el cetro  */
+	
 	margin: 50px;
 	width: 1302px;
 	height: 400px;
@@ -41,7 +41,7 @@
 }
 
 #isquierda1 {
-	margin: 6px 0;
+	margin: 6px;
 	width: 652px;
 	height: 400px;
 	background-color: #ffff80;
@@ -51,7 +51,7 @@
 
 
 #derecha1 {
-	margin: 6px 0;
+	margin: 6px;
 	width: 650px;
 	height: 400px;
 	background-color: #ffff80;
