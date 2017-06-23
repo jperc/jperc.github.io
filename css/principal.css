@@ -49,13 +49,6 @@
 	/* ubica las imagenes automaticamente en su posicion dentro del div */
 }
 
-#centro1 {
-	margin: 6px;
-	width: 431px;
-	height: 400px;
-	background-color: #ffff80;
-	float: left;
-}
 
 #derecha1 {
 	margin: 6px;
@@ -84,13 +77,6 @@
 	float: left;
 }
 
-#centro2 {
-	margin: 6px;
-	width: 430px;
-	height: 400px;
-	background-color: #ffff80;
-	float: left;
-}
 
 #derecha2 {
 	margin: 6px;
