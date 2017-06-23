@@ -32,8 +32,8 @@
 
 ///////////////////////////////////////////////////////
 #div1 {
-	text-aling: center; /* define la aliniacion y pone en el cetro  */
-	margin: 50px;
+	 /* define la aliniacion y pone en el cetro  */
+	margin-right:auto;;
 	width: 1302px;
 	height: 400px;
 	background: #000000;
@@ -60,7 +60,7 @@
 
 //////////////////////////////////////////////////////////////////
 #div2 {
-	margin: 50px;
+	margin-right:auto;
 	/* el margen que existe entre el div y las demas etiquetas */
 	width: 1302px;
 	height: 400px;
@@ -70,7 +70,7 @@
 }
 
 #isquierda2 {
-	margin: 6px 0;
+	margin-left:auto;
 	width: 650px;
 	height: 400px;
 	background-color: #ffff80;
@@ -79,7 +79,7 @@
 
 
 #derecha2 {
-	margin: 6px 0;
+	margin-right:auto;
 	width: 650px;
 	height: 400px;
 	background-color: #ffff80;
