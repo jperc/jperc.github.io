@@ -10,6 +10,9 @@
 	margin: auto;
 	position: relative;	
 }
+.contenedor{
+	width: 100%;
+}
 
 #divprincipal {
 	margin: 0px;
