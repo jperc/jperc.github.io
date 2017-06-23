@@ -39,7 +39,7 @@
 	background: #ff80ff;
 }
 
-#isquierda1 {
+div1 isquierda1 {
 	margin: 6px;
 	width: 430px;
 	height: 400px;
@@ -48,7 +48,7 @@
 	/* ubica las imagenes automaticamente en su posicion dentro del div */
 }
 
-#centro1 {
+ div1 centro1 {
 	margin: 6px;
 	width: 430px;
 	height: 400px;
@@ -56,7 +56,7 @@
 	float: left;
 }
 
-#derecha1 {
+div1 derecha1 {
 	margin: 6px;
 	width: 430px;
 	height: 400px;
