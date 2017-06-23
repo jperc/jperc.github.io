@@ -34,7 +34,7 @@
 #div1 {
 	text-aling: center; /* define la aliniacion y pone en el cetro  */
 	margin: 50px 0;
-	width: 1304px;
+	width: 1300px;
 	height: 400px;
 	background: #000000;
 	
@@ -42,7 +42,7 @@
 
 #isquierda1 {
 	margin: 6px;
-	width: 431px;
+	width: 652px;
 	height: 400px;
 	background-color: #ffff80;
 	float: left;
@@ -52,7 +52,7 @@
 
 #derecha1 {
 	margin: 6px;
-	width: 431px;
+	width: 650px;
 	height: 400px;
 	background-color: #ffff80;
 	float: left;
@@ -71,7 +71,7 @@
 
 #isquierda2 {
 	margin: 6px;
-	width: 430px;
+	width: 650px;
 	height: 400px;
 	background-color: #ffff80;
 	float: left;
@@ -80,7 +80,7 @@
 
 #derecha2 {
 	margin: 6px;
-	width: 430px;
+	width: 650px;
 	height: 400px;
 	background-color: #ffff80;
 	float: left;
